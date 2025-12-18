@@ -45,7 +45,7 @@ echo ""
 # Show binary info
 echo "Binary information:"
 ls -lh bin/app
-file bin/app
+# file bin/app
 echo ""
 
 # Create package
